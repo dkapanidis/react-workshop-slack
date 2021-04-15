@@ -29,7 +29,7 @@ function Login() {
       <button onClick={signIn} className="p-2 mt-5 w-96 bg-indigo-900 rounded-md text-white font-bold text-lg">Continue</button>
 
       <div className="pt-6 w-96 justify-start text-xs space-x-1">
-        <span className="font-light">Don't now your workspace URL?</span>
+        <span className="font-light">Don't know your workspace URL?</span>
         <span className="text-blue-800">Find your workspaces</span>
       </div>
       <div className="pt-2 w-96 justify-start text-xs space-x-1">
